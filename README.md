@@ -44,7 +44,7 @@
 
 ## 🌐 My Interactive Resume  
 👉 **Click here for full animated resume 👇**  
-[View My Animated Resume]([https://your-link-here](https://github.com/mobarakideas/resume-site.git)
+[View My Animated Resume]([https://your-link-here](https://github.com/mobarakideas/resume-site/index.html)
 
 ---
 
