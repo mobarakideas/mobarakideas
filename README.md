@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Md Mobarak Hossain  
 
-💻 Web Developer | 🚀 Tech Enthusiast | 🎮 Chess Lover  
+💻 Web Developer | 🚀 Tech Enthusiast | 🎮 Gamer  
 
 ---
 
@@ -44,7 +44,7 @@
 
 ## 🌐 My Interactive Resume  
 👉 **Click here for full animated resume 👇**  
-[View My Animated Resume](https://your-link-here)
+[View My Animated Resume]([https://your-link-here](https://github.com/mobarakideas/resume-site.git))
 
 ---
 
